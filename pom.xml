@@ -15,6 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <properties>
+    <docker.maintainer>统一Manven 版本依赖</docker.maintainer>
+    <docker.imageName>parent</docker.imageName>
+    <docker.image.prefix>jerry_hu123</docker.image.prefix>
+  </properties>
   <build>
         <plugins>
             <plugin>
