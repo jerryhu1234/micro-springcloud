@@ -12,11 +12,4 @@ public class Sb2scEurekaApplication {
         SpringApplication.run(Sb2scEurekaApplication.class, args);
     }
 }
-public class ScEurakaApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(ScEurakaApplication.class, args);
-	}
-
-}
 
