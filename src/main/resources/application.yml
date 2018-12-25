@@ -22,3 +22,4 @@ spring:
     user:
       name: root
       password: booszy
+    csrf: false
